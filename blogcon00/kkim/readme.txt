@@ -1,4 +1,4 @@
-###2020.12.23
+2020.12.23
  ft_server
   목차 : https://kkim-blog.tistory.com/entry/KKIM%EC%9D%98-ftserver-%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80-0%EB%AA%A9%EC%B0%A8
    0.1 subject https://kkim-blog.tistory.com/entry/KKIM%EC%9D%98-ftserver-%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80-01-Subject
